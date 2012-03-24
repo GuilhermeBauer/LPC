@@ -1,0 +1,9 @@
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Diasvividos\Diasvividos\obj\x86\Release\ResolveAssemblyReference.cache
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Diasvividos\Diasvividos\obj\x86\Release\Diasvividos.Form1.resources
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Diasvividos\Diasvividos\obj\x86\Release\Diasvividos.Properties.Resources.resources
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Diasvividos\Diasvividos\obj\x86\Release\GenerateResource.read.1.tlog
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Diasvividos\Diasvividos\obj\x86\Release\GenerateResource.write.1.tlog
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Diasvividos\Diasvividos\bin\Release\Diasvividos.exe
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Diasvividos\Diasvividos\bin\Release\Diasvividos.pdb
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Diasvividos\Diasvividos\obj\x86\Release\Diasvividos.exe
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Diasvividos\Diasvividos\obj\x86\Release\Diasvividos.pdb

@@ -1,0 +1,13 @@
+C:\Users\Guilherme\Desktop\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\bin\Debug\MinhaPrimeiraAplicacao.exe.config
+C:\Users\Guilherme\Desktop\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\bin\Debug\MinhaPrimeiraAplicacao.exe
+C:\Users\Guilherme\Desktop\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\bin\Debug\MinhaPrimeiraAplicacao.pdb
+C:\Users\Guilherme\Desktop\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\MinhaPrimeiraAplicacao.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Guilherme\Desktop\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Guilherme\Desktop\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\MinhaPrimeiraAplicacao.exe
+C:\Users\Guilherme\Desktop\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\MinhaPrimeiraAplicacao.pdb
+C:\Users\Guilherme\Desktop\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\MinhaPrimeiraAplicacao.Form1.resources
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\bin\Debug\MinhaPrimeiraAplicacao.exe.config
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\MinhaPrimeiraAplicacao.exe
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\MinhaPrimeiraAplicacao\MinhaPrimeiraAplicacao\obj\x86\Debug\MinhaPrimeiraAplicacao.pdb

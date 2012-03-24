@@ -1,0 +1,9 @@
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\instrucoescondicionais\instrucoescondicionais\bin\Debug\instrucoescondicionais.exe
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\instrucoescondicionais\instrucoescondicionais\bin\Debug\instrucoescondicionais.pdb
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\instrucoescondicionais\instrucoescondicionais\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\instrucoescondicionais\instrucoescondicionais\obj\x86\Debug\instrucoescondicionais.Properties.Resources.resources
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\instrucoescondicionais\instrucoescondicionais\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\instrucoescondicionais\instrucoescondicionais\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\instrucoescondicionais\instrucoescondicionais\obj\x86\Debug\instrucoescondicionais.exe
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\instrucoescondicionais\instrucoescondicionais\obj\x86\Debug\instrucoescondicionais.pdb
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\instrucoescondicionais\instrucoescondicionais\obj\x86\Debug\instrucoescondicionais.FrmPrincipal.resources
