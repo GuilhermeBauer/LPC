@@ -1,0 +1,11 @@
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Aplicacao\Aplicacao\bin\Debug\Aplicacao.exe
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Aplicacao\Aplicacao\bin\Debug\Aplicacao.pdb
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Aplicacao\Aplicacao\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Aplicacao\Aplicacao\obj\x86\Debug\Aplicacao.FrmPrincipal.resources
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Aplicacao\Aplicacao\obj\x86\Debug\Aplicacao.Properties.Resources.resources
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Aplicacao\Aplicacao\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Aplicacao\Aplicacao\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Aplicacao\Aplicacao\obj\x86\Debug\Aplicacao.exe
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Aplicacao\Aplicacao\obj\x86\Debug\Aplicacao.pdb
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Aplicacao\Aplicacao\obj\x86\Debug\Aplicacao.FrmAlterar.resources
+D:\faculdade\5 semestre\6- linguagem de Programaçao Comercial\projetos\Aplicacao\Aplicacao\obj\x86\Debug\Aplicacao.FrmNovo.resources
